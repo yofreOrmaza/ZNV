@@ -2,4 +2,4 @@
 
 ## Instalaciòn y uso del compilador Rmd
 
-- [Aquì](compilerrmd.md)
+- [Aquì](compilermd.md)
