@@ -28,3 +28,5 @@ require('l-lspkind')
 require('autosave')
 require('autopairs')
 require('keymaps')
+
+require('compilermd')
