@@ -58,9 +58,6 @@ return require('packer').startup(function(use)
             }
         }
 
-	use 'onsails/lspkind.nvim'
-
-
 
 	-- ENTORNO
         use 'Pocco81/auto-save.nvim'

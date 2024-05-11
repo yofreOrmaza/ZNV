@@ -23,7 +23,6 @@ require('l-lspconfig')
 require('mason-global')
 require('mason-lg')
 require('l-lspzero')
-require('l-lspkind')
 
 require('autosave')
 require('autopairs')
