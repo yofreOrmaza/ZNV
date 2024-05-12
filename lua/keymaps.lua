@@ -1,5 +1,5 @@
-vim.api.nvim_set_keymap("n", "n", "nzzzv", {silent = true})
-vim.api.nvim_set_keymap("n", "N", "Nzzzv", {silent = true})
+vim.api.nvim_set_keymap("n", "n", "nzzzv", {noremap = true, silent = true})
+vim.api.nvim_set_keymap("n", "N", "Nzzzv", {noremap = true, silent = true})
 
 vim.api.nvim_set_keymap('n', '5', ':source%<CR>', {noremap = true}) -- Refrescar IDE
 vim.api.nvim_set_keymap('n', '7', '/', {noremap = true}) -- Tecla en donde se encuentre el caracter / para activar modo comando
