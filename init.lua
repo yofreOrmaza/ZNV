@@ -28,4 +28,7 @@ require('autosave')
 require('autopairs')
 require('keymaps')
 
+require('cmaketools')
+require('coderuncpp')
+require('createcmakelistsfile')
 require('compilermd')

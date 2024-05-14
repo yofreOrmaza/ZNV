@@ -65,5 +65,5 @@ return require('packer').startup(function(use)
         use 'windwp/nvim-autopairs'
 
         -- LENGUAJE
-        use 'Civitasv/cmake-tools.nvim'
+        use {'Civitasv/cmake-tools.nvim', requires = {{'nvim-lua/plenary.nvim'},}}
 end)
