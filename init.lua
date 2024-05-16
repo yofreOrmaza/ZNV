@@ -18,6 +18,7 @@ require('tree')
 require('treesitter')
 require('t-trouble')
 require('toggleterminal')
+require('markdownpreview')
 
 require('l-lspconfig')
 require('mason-global')

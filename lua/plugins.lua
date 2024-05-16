@@ -33,6 +33,8 @@ return require('packer').startup(function(use)
 
 	use 'akinsho/toggleterm.nvim'
 
+        use { 'iamcco/markdown-preview.nvim', run = 'cd app && npx --yes yarn install' }
+
 
 
 	-- LSP
