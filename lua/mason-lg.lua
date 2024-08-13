@@ -1,5 +1,5 @@
---require("mason-lspconfig").setup({
-    --ensure_installed = {
+require("mason-lspconfig").setup({
+    ensure_installed = {
 	--'html',
         --'emmet_language_server',
         --'cssls', -- Css, Scss, Less
@@ -10,7 +10,7 @@
         --'vuels',
         --'sqlls',
 	--'pyright',
-	--'clangd',
-    --},
-    --automatic_installation = true,
---})
+	'clangd',
+    },
+    automatic_installation = true,
+})
