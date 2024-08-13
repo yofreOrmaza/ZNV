@@ -2,5 +2,5 @@
 
 ## DOCS
 
-- [C++/C](./docs/ZNV-CPP.md)
+- [C++/C](./docs/ZNV-CPP&C.md)
 - [MD](./compilermd.md)
