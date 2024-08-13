@@ -17,11 +17,11 @@ sudo apt install g++-12
 
 ---
 
-# Comenzar un proyecto C++
+# Comenzar un proyecto C++/C
 
 1. Crear la carpeta del proyecto
 
-2. Crear el archivo CMakeLists.txt y modificar el número de versión de cmake (En caso de necesitarlo)
+2. Crear el archivo CMakeLists.txt y modificar el número de versión de cmake (En caso de necesitarlo con: cmake --version)
 
 ```sh
 nvim CMakeLists.txt
